@@ -1,2 +1,4 @@
 A子查詢結果，疊代引用至B子查詢
- lateral 联合就可以让我们迭代结果集的每一行，并会在接下来执行一次参数化的子查询. 这就等同于针对结果集的每一行都要执行一遍查询:
+ lateral 联合就可以让我们迭代结果集的每一行，并会在接下来执行一次参数化的子查询. 这就等同于针对结果集的每一行都要执行一遍查询
+ 
+ http://www.oschina.net/translate/postgresqls-powerful-new-join-type-lateral
